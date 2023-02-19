@@ -54,7 +54,7 @@ A wise word from a wise man - **Real Life is also a game, You get a task/objecti
 <br/>
  
 ## Connect with me 🤝🏻
-You can connect or Support me using of any these 
+You can connect or Support me using any of these 
 
 <a href="https://replit.com/@RajGaming5" target="_blank">
 <img src=https://img.shields.io/badge/replit-%2324292e.svg?&style=for-the-badge&logo=replit&logoColor=white alt=replit style="margin-bottom: 5px;" />
