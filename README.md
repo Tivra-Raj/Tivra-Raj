@@ -82,12 +82,13 @@ You can connect or Support me using any of these
   
 ### 📊 Stats
  
- <table>
-  <tr>
+<table>
+<tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=tivra-raj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tivra Raj" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tivra-raj&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tivra Raj" /></td>
-  </tr>
+    
+</tr>
 </table>
 
 <!-- <div align="center"> -->
@@ -96,9 +97,15 @@ You can connect or Support me using any of these
 <br>
 <!-- My contribution graph : -->
 <div align="left">
-  
-## Snake Eating My Contribution Graph
-![Watch my contribution graph !](https://github.com/Dhiraj57/Dhiraj57/blob/output/github-contribution-grid-snake.svg)
+
+
+### My 2022 GitHub Skyline
+
+
+
+## Watch my contribution graph get eaten by the snake ![animated-snake-image-0050](https://user-images.githubusercontent.com/107213542/232254114-a15566ca-8892-4a40-90d0-3b8e68f054de.gif)
+
+![snake gif](https://github.com/Tivra-Raj/Tivra-Raj/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
