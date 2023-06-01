@@ -105,7 +105,7 @@ You can connect or Support me using any of these
 
 ## Watch my contribution graph get eaten by the snake ![animated-snake-image-0050](https://user-images.githubusercontent.com/107213542/232254114-a15566ca-8892-4a40-90d0-3b8e68f054de.gif)
 
-![snake gif](https://github.com/Tivra-Raj/Tivra-Raj/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tivra-Raj/Tivra-Raj/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 
