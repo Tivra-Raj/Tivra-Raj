@@ -46,7 +46,9 @@ A wise word from a wise man - **Real Life is also a game, You get a task/objecti
 <br/>
 
 | Project Name      | Description | 
-| :---:        |    :----   |  
+| :---:        |    :----   |
+| [Delivery Drone](https://github.com/Tivra-Raj/Delivery-Drone)   | 3D Simulation-puzzled genre-based game.
+| [Save Me Riddle](https://github.com/Tivra-Raj/Save-Me-Riddle)   | 2D Horror-puzzled genre-based game.
 | [Co-op Snake2D](https://github.com/Tivra-Raj/Snake-2D)   | 2D snake game with two player mode.
 | [2D-Platformer](https://github.com/Tivra-Raj/2D-Platformer-Game/tree/Feature-11-Final-Completion)     | 2D platformer game built using unity engine. 
 | [RPG Adventure Game]()     | Text based RPG adventure game created using c++.
